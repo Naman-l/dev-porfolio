@@ -10,6 +10,9 @@ import Home from "./pages/Home";
 
 const App = () => {
   const [isDarkMode, setIsDarkMode] = useState(false);
+  window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+  }
 
   return (
     <div>

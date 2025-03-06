@@ -1,5 +1,5 @@
 import React from "react";
-import resumeFile from "../assets/NamanSharmaResume.pdf";
+import resumeFile from "../assets/naman_resume.pdf";
 import logoDark from "../assets/logo_dark.svg";
 import logoLight from "../assets/logo_light.svg";
 import { BiSun, BiMoon } from "react-icons/bi";

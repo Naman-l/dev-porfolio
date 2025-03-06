@@ -47,9 +47,10 @@ const Experience = ({ isDarkMode }) => {
               >
                 {experience.role} -{" "}
                 <span
-                  className={`text-purple-100 ${
+                  className={`cursor-pointer text-purple-100 ${
                     isDarkMode ? "text-slate-600" : ""
                   }`}
+                  onClick={() => window.open(experience.link, "_blank")}
                 >
                   {experience.company}
                 </span>

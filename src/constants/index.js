@@ -6,7 +6,8 @@ import project2 from "../assets/projects/project3.png";
 export const EXPERIENCES = [
   {
     year: "May 2022 - Present",
-    role: "Software Engineer",
+    role: "Software Engineer 2",
+    link: "https://joveo.com",
     company: "JOVEO",
     description: [
       `Currently leading frontend development for the platform engineering team, delivering central features and packages for 10 different products. Developed Frontend for managing authentication for all products, including login via Email, Google and a centralized logout and an embeddable Appswitcher for navigating across all products`,
@@ -21,6 +22,7 @@ export const EXPERIENCES = [
   {
     year: "June 2021 - May 2022",
     role: "Software Engineer-UI",
+    link: "https://ofbusiness.in",
     company: "OFBUSINESS",
     description: [
       `Designed and implemented the user interface within our application for E-way Bill extension and cancellation, replacing manual processes through government portals. This initiative significantly improved efficiency and streamlined logistics for the operations team, marking a substantial advancement for the company`,
@@ -32,6 +34,7 @@ export const EXPERIENCES = [
   {
     year: "Jan 2021 - May 2021",
     role: "Software Engineering Intern",
+    link: "https://zostel.com",
     company: "ZOSTEL",
     description: [
       `Solely designed and built Instagram-like UI with additional tools for monitoring social media metrics from scratch`,

@@ -49,15 +49,15 @@ export const NAVLINKS = {
 
 
 export const HERO_CONTENT = `
-Frontend engineer who loves creating beautiful and performant software.\n
+Frontend engineering leader who transforms business challenges into revenue-generating digital experiences, with a proven track record of boosting customer acquisition and operational efficiency.\n
+I don't just write code—I build solutions that directly impact the bottom line.\n
 I'm currently working @joveo \nBuilding with Javascript | ReactJs | Angular almost everyday since 4 years \n
-I love getting paid for this, I love building UI ❤️
 `;
 
 export const ABOUT_TEXT = `
 
 Experienced frontend engineer proficient in JavaScript frameworks, expertise in developing central features and UI systems for large-scale projects.\n
-Skilled in managing large-scale projects,authentication, access management, and AI-powered chatbots.\n
+Skilled in managing large-scale projects, authentication, access management, AI-powered chatbots and more.\n
 Practical knowledge of browser compatibility issues, support, and how to create experiences that adapt across browsers and devices\n
 Proven track record in enhancing UI/UX, specializing in high-performance interfaces and web performance optimization.\n
 Passionate about creating engaging user experiences. Explore my work and connect! 
